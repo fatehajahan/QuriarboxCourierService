@@ -17,7 +17,7 @@ const Footer = () => {
                                 <h2 className='font-oxi font-bold text-[18px] text-[#F95C19] pb-[13px]'>SUBSCRIBE TO NEWSLETTER</h2>
                                 <div className="flex gap-x-[16px]">
                                     <input type="email" placeholder='Enter your mail' className=' py-[15px] pl-[18px] border border-[#C5C5D2] bg-transparent w-[386px] rounded-md ' />
-                                    <a href="#" className=' py-[14px] px-[20px] bg-[#F95C19] rounded-md text-white hover:bg-white hover:text-black transition duration-300'>Subscribe</a>
+                                    <a href="#" className=' font-bold py-[14px] px-[20px] bg-[#F95C19] rounded-md text-white hover:bg-white hover:text-black transition duration-300'>Subscribe</a>
                                 </div>
                             </div>
                         </div>
