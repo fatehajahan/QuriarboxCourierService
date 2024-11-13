@@ -8,6 +8,7 @@ import FastestDelivary from './components/FastestDelivary/FastestDelivary'
 import Testimonial from './components/Testimoinal/Testimonial'
 import Contact from './components/Contact/Contact'
 import Findus from './components/Findus/Findus'
+import Footer from './components/Footer/Footer'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Testimonial />
       <Contact/>
       <Findus/>
+      <Footer/>
     </>
   )
 }
